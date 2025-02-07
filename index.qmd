@@ -1,22 +1,20 @@
 ---
 title: "Sara McLaughlin"
-image: ~/githhub/Quartoimage.jpeg
+image: /Newphoto.jpeg
 toc: false
-about: marquee
-template: marquee
-image-shape: round
-image-width: 17em
-links:
-  - text: LinkedIn
-  - href: https://www.linkedin.com/in/sara-mclaughlin-b45b8b274/ 
-  - text: Github
-  - href: https://github.com/saramclaughlin 
-  - text: Email
-  - href: mailto:mclaughlin.sara@colostate.edu
-
+about: 
+  template: marquee
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+    - href: https://www.linkedin.com/in/sara-mclaughlin-b45b8b274/ 
+    - text: Github
+    - href: https://github.com/saramclaughlin 
+    - text: Email
+    - href: mailto:mclaughlin.sara@colostate.edu
 ---
-
-An emerging conservation biologist with a special interest in ecological fieldwork, I am skilled in scientific research, data organization and analysis, and sustainable practices. I seek to utilize my expertise in organizations dedicated to conservation ecology and biology. Outside of my academic and professional endeavors, I enjoy spending my time hiking, camping, reading, or practicing yoga and meditation.
+### An emerging conservation biologist with a special interest in ecological fieldwork, I am skilled in scientific research, data organization and analysis, and sustainable practices. I seek to utilize my expertise in organizations dedicated to conservation ecology and biology. Outside of my academic and professional endeavors, I enjoy spending my time hiking, camping, reading, or practicing yoga and meditation. 
 
 ```{r}
 1 + 1

@@ -1,16 +1,16 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sara McLaughlin",
+    "section": "",
+    "text": "An emerging conservation biologist with a special interest in ecological fieldwork, I am skilled in scientific research, data organization and analysis, and sustainable practices. I seek to utilize my expertise in organizations dedicated to conservation ecology and biology. Outside of my academic and professional endeavors, I enjoy spending my time hiking, camping, reading, or practicing yoga and meditation.\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "saramclaughlin.github",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]
