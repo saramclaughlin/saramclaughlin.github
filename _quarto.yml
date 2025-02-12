@@ -9,10 +9,17 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resources.qmd
+      - Resume.qmd
+
+  page-footer:
+    background: light
+    left: Copyright 2025, Sara McLaughlin
+    right: This website is built with Github, R Studio, and Quarto
 
 format:
   html:
-    theme: cosmo
+    theme: styles.scss
     css: styles.css
     toc: true
     page-layout: full

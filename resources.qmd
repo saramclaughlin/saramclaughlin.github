@@ -1,0 +1,16 @@
+---
+title: "Projects"
+format: html
+links:
+  - text: Github Repositories
+    href: https://github.com/saramclaughlin?tab=repositories 
+---
+
+In the Spring of 2025 I took a Quantitative Reasoning class based in R. I wrote code and performed data science associated with environmental and ecological data. Here is a collection of links to my completed projects from this course:
+
+## [Building a project ]()[website](https://saramclaughlin.github.io/saramclaughlin.github/)
+
+-   Made a new Github repository
+-   Set up a Quarto website with multiple pages
+-   Populated the website with images and links
+-   Created a personal color scheme

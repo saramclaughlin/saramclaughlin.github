@@ -5,7 +5,7 @@ $dark-green: #006400;
 $cream: #F5F5DC;
 $burnt-orange: #A0522D;
 $dark-brown: #8B4513;
-$black: #000000;
+$black: 000000;
 
 // Base document colors
 $navbar-bg: $dark-green;

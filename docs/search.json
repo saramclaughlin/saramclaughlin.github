@@ -4,13 +4,34 @@
     "href": "index.html",
     "title": "Sara McLaughlin",
     "section": "",
-    "text": "An emerging conservation biologist with a special interest in ecological fieldwork, I am skilled in scientific research, data organization and analysis, and sustainable practices. I seek to utilize my expertise in organizations dedicated to conservation ecology and biology. Outside of my academic and professional endeavors, I enjoy spending my time hiking, camping, reading, or practicing yoga and meditation.\n\n1 + 1\n\n[1] 2"
+    "text": "An emerging conservation biologist with a special interest in ecological fieldwork, I am skilled in scientific research, data organization and analysis, and sustainable practices. I seek to utilize my expertise in organizations dedicated to conservation ecology and biology. Outside of my academic and professional endeavors, I enjoy spending my time hiking, camping, reading, or practicing yoga and meditation."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Who Am I?\nOriginally from Illinois, I am a current undergraduate student at Colorado State University studying Biology and Ecosystem Science and Sustainability. I aim to combine these two disciplines to advance the field of Conservation Biology. Moving across the country to immerse myself in Colorado’s awe-inspiring landscapes, I often feel indebted to the state and the ecological, recreational, and cultural importance of its natural heritage. Having changed my life for the better in countless ways, I now aim to protect and restore the numerous ecosystems that we humans rely on and impact so greatly.\n\n\nMy Goals\nAfter graduation, I hope to find fieldwork in various locations and ecotypes across the U.S. and abroad. My primary interests include coastal, rainforest, marine, and wetland ecosystems. I aspire to work with both wildlife and plant species. After broadening my experience in different field settings, I will return to graduate school to obtain either my masters or doctorate degree. Eventually, I aspire to lead my own conservation research projects, working both in the field and in a laboratory to publish findings for the advancement of conservation biology.\n\n\nMy Passions\nWhen I’m not immersed in my studies, which I thoroughly enjoy, you can often find me outdoors. Hiking in the Rocky Mountains, skiing, and rock climbing are some of my favorite ways to recharge mentally and challenge myself physically. Additionally, I enjoy practicing yoga and meditation, reading an engaging book, cooking delicious vegan meals, and working on crafts or puzzles. Most of all, I value spending time with friends, sharing laughter and meaningful conversation."
+  },
+  {
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Sara M. McLaughlin \nFort Collins, CO | saramclaughlin0@gmail.com | (815) 514-0878  \nBIOLOGICAL CONSERVATION| SUSTAINABILITY RESEARCH| ECOLOGICAL RESTORATION \nAn emerging conservation biologist with a special interest in ecological fieldwork, I am skilled in scientific research, data organization and analysis, and sustainable practices. I seek to utilize my expertise in organizations dedicated to conservation ecology and biology and apply my core competencies which include:    \n\nExperience with GPS and GIS systems (ArcGIS Pro and Online) \n\n\n\nThoroughness and strong attention to detail \n\n\n\nSelf-sufficiency and ability to work independently  \n\n\n\nExcellent time management and organizational skills \n\n\n\nProficiency in hiking, camping, and off-road navigation in challenging conditions \n\n \nEDUCATION \nColorado State University, Fort Collins, CO May 2026 \nBachelor of Science, Ecosystem Science and Sustainability\nBachelor of Science, Biology \nGPA: 3.98 \n                       \nECOLOGICAL AND SUSTAINABILITY EXPERIENCE \nStudent Ambassador - CSU Energy Institute               October 2023 – Present \nFort Collins, CO  \n\nDevelop a core understanding of over twenty sustainability research laboratories \n\n\n\nOrganize and analyze facility research data using Microsoft Excel and other Office applications \n\n\n\nDeliver educational outreach demonstrations on climate change and sustainable practices  \n\n\n\nConduct guided tours for diverse audiences \n\nHorticulture Intern - The Gardens on Spring Creek         May 2024 – August 2024 \nFort Collins, CO \n\nAssisted various horticulturists with plant management and identification techniques \n\n\n\nManaged, collected, and analyzed extensive plant and soil data \n\n\n\nCollaborated and communicated with a large team and volunteer groups effectively \n\n\n\nExecuted plant upkeep in outdoor and greenhouse environments \n\n\n\nWorked outdoors in adverse conditions with extreme physical activity \n\nField Worker - Bronkberry Farms            April 2020 – August 2022 \nShorewood, IL  \n\nOversaw planting, care, and harvesting of produce and other vegetation in the field \n\n\n\nIdentified and treated plant diseases and infections   \n\n\n\nPerformed intensive manual labor in challenging outdoor environments \n\n \nRESTORATION VOLUNTEER EXPERIENCE \nField Volunteer - Wildlands Restoration Volunteers      May 2024 – Present \nColorado \n\nContributed to ecological restoration projects in remote locations \n\n\n\nCarried out physically demanding tasks in adverse outdoor conditions \n\n \nAWARDS & CERTIFICATIONS  \nGreen and Gold Scholarship Recipient, Colorado State University\nFall 2022 – Spring 2026 \nDean’s List Certification, Colorado State University\nFall 2022 – Present"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Projects",
+    "section": "",
+    "text": "In the Spring of 2025 I took a Quantitative Reasoning class based in R. I wrote code and performed data science associated with environmental and ecological data. Here is a collection of links to my completed projects from this course:"
+  },
+  {
+    "objectID": "resources.html#building-a-project-website",
+    "href": "resources.html#building-a-project-website",
+    "title": "Projects",
+    "section": "Building a project website",
+    "text": "Building a project website\n\nMade a new Github repository\nSet up a Quarto website with multiple pages\nPopulated the website with images and links\nCreated a personal color scheme"
   }
 ]

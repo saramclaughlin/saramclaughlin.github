@@ -2,8 +2,14 @@
 title: "About"
 ---
 
-About this site
+### Who Am I?
 
-```{r}
-1 + 1
-```
+Originally from Illinois, I am a current undergraduate student at Colorado State University studying Biology and Ecosystem Science and Sustainability. I aim to combine these two disciplines to advance the field of Conservation Biology. Moving across the country to immerse myself in Colorado’s awe-inspiring landscapes, I often feel indebted to the state and the ecological, recreational, and cultural importance of its natural heritage. Having changed my life for the better in countless ways, I now aim to protect and restore the numerous ecosystems that we humans rely on and impact so greatly.
+
+### My Goals 
+
+After graduation, I hope to find fieldwork in various locations and ecotypes across the U.S. and abroad. My primary interests include coastal, rainforest, marine, and wetland ecosystems. I aspire to work with both wildlife and plant species. After broadening my experience in different field settings, I will return to graduate school to obtain either my masters or doctorate degree. Eventually, I aspire to lead my own conservation research projects, working both in the field and in a laboratory to publish findings for the advancement of conservation biology.
+
+### My Passions
+
+When I’m not immersed in my studies, which I thoroughly enjoy, you can often find me outdoors. Hiking in the Rocky Mountains, skiing, and rock climbing are some of my favorite ways to recharge mentally and challenge myself physically. Additionally, I enjoy practicing yoga and meditation, reading an engaging book, cooking delicious vegan meals, and working on crafts or puzzles. Most of all, I value spending time with friends, sharing laughter and meaningful conversation. 
