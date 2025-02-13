@@ -1,6 +1,6 @@
 ---
 title: "Sara McLaughlin"
-image: /Newphoto.jpeg
+image: websitephoto.jpg 
 toc: false
 about: 
   template: jolla
